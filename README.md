@@ -1,5 +1,6 @@
 - 👋 Olá, Sou o @marceloasfilho
 - 👀 Tenho interesse em melhorar minhas competências em desenvolvimento ✨
+- 👀 Utilizo JAVA como linguagem de programação base de aprendizado, porém bastante flexível para aprendizado de novas tecnologias!
 - 🌱 Atualmente revisando e aprimorando conceitos de OO para adaptação ao processo de desenvolvimento de projetos utilizando SpringBoot
 - 📫 marceloandradesilvafilho@gmail.com
 
